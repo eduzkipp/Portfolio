@@ -1,0 +1,85 @@
+html, body{
+    height: 100%;
+    font-size: 1rem;
+   font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.gradient{
+    background: rgb(0,97,242);
+background: linear-gradient(90deg, rgba(0,97,242,1) 0%, rgba(105,0,199,1) 35%);
+} 
+
+
+
+.page-header{
+    margin-top: 4rem;
+    font-size:1.5rem;
+    color:#fff;
+}
+.button{
+    margin-bottom:5rem;
+}
+.feature{
+    
+    color:#fff;
+}
+.feature ul{
+    padding-left: 2rem;
+    list-style-type: none;
+}
+
+.feature ul li{
+    padding-left: 2rem;
+    background-image: url(../img/check.svg);
+    background-repeat: no-repeat;
+}
+.icon{
+    height:5rem;
+    width:5rem;
+    color:#fff;
+    font-size:1.75rem;
+    border-radius:100%;
+    display:inline-flex;
+    justify-content: center;
+    
+}
+
+.gallery{
+    background-color:whitesmoke;
+}
+.gallery img{
+    border-radius:5%;
+}
+.text1 h1{
+    
+    color:#d4af37;
+}
+.fixt, .jersey,first,second,third{
+    color:#d4af37;
+}
+.transfer img{
+    margin-top: 2rem;
+}
+
+.ucl{
+    
+    
+    float:right;
+    display:block;
+}
+.hazard{
+    
+}
+.jorginho{
+    float:right;
+}
+
+.udinese{
+    margin-top: 2rem;
+}
+.fixture{
+    width:317px;
+    height: 402px;
+}
